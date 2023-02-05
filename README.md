@@ -1,1 +1,1 @@
-# YetGenCorePythonE-itimi
+# YetGenCorePythonEgitimi
